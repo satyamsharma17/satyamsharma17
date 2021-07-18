@@ -2,7 +2,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyamsharma17) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
+![Profile Views](https://komarev.com/ghpvc/?username=satyamsharma17&style=social) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
 
 ---
 
