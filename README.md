@@ -6,17 +6,19 @@
 
 ---
 
-### I'm an Undergrad. CSE student and Competitive Programmer!
-- Open-Source enthusiast.
+### 🚀 About Me
+- I'm an Undergrad. CSE student and Competitive Programmer!
+- I'm Open-Source enthusiast.
 - Passionate about Android Development, Web Development, Machine Learning, DevOps.
 - Looking to collaborate with other developers. 
 - Learning to build big projects using more tools and technologies.
 
 ---
-
+  
 ## &#x1f4c8; My GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=satyamsharma17) 
 
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats)
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats)
 
 ---
 
