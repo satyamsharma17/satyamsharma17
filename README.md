@@ -11,7 +11,7 @@
 ---
 
 ## 🧩 Connect With Me
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/sharmasatyam?label=Reddit%20Karma&style=social)](https://www.reddit.com/u/sharmasatyam) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sharmasatyam17) [![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord&labelColor=blue)](https://discord.gg/uS4jCf88) [![Codememe](https://img.shields.io/badge/Appstore--green?style=social&logo=amazon&labelColor=blue)](https://www.amazon.com/gp/product/B098KHTPR7) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/sharmasatyam?label=Reddit%20Karma&style=social)](https://www.reddit.com/u/sharmasatyam) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
 
 ---
 
@@ -60,6 +60,7 @@
 | Codegram | Code-Note |
 | --- | --- |
 [![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamasharma17/Code-Note) |
+
 ---
   
 ## &#x1f4c8; My GitHub Stats
