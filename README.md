@@ -7,8 +7,7 @@
 ---
 
 ### 🚀 About Me
-- I'm an Undergrad. CSE student and Competitive Programmer!
-- I'm Open-Source enthusiast.
+- I'm an Undergrad. Computer Science Student and Competitive Programmer!
 - Passionate about Android Development, Web Development, Machine Learning, DevOps.
 - Looking to collaborate with other developers. 
 - Learning to build big projects using more tools and technologies.
