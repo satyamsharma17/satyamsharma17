@@ -43,7 +43,7 @@
 
 ---
   
-## &#x1f4c8; My GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=satyamsharma17) 
+## &#x1f4c8; My GitHub Stats
 
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats)
