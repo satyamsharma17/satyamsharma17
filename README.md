@@ -2,15 +2,16 @@
 
 ---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
-
----
-
 ### 🚀 About Me
 - I'm an Undergrad. Computer Science Student and Competitive Programmer!
 - Passionate about Android Development, Web Development, Machine Learning, DevOps.
 - Looking to collaborate with other developers. 
 - Learning to build big projects using more tools and technologies.
+
+---
+
+## 🧩 Connect With Me
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=People%20subscribed%20to%20my%20channel&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/sharmasatyam?label=Reddit%20Karma&style=social)](https://www.reddit.com/u/sharmasatyam) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
 
 ---
 
@@ -42,11 +43,17 @@
 ![](https://img.shields.io/badge/figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+## 🎯 Working On
+| Codegram | Code-Note |
+| --- | --- |
+[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamasharma17/Code-Note) |
+---
   
 ## &#x1f4c8; My GitHub Stats
-
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats)
+| Satyam's GitHub stats | GitHub Streak |
+| --- | --- |
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats) |
 
 ---
 
