@@ -75,7 +75,7 @@
 ## &#x1f4c8; My GitHub Stats
 | Satyam's GitHub stats | GitHub Streak |
 | --- | --- |
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats) |
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/satyamsharma17) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats) |
 
 ---
 
