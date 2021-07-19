@@ -68,14 +68,14 @@
 ## 🎯 Working On
 | Codegram | Code-Note |
 | --- | --- |
-[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamasharma17/Code-Note) |
+[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamsharma17/Code-Note) |
 
 ---
   
 ## &#x1f4c8; My GitHub Stats
 | Satyam's GitHub stats | GitHub Streak |
 | --- | --- |
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/satyamsharma17) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://git.io/streak-stats) |
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/satyamsharma17) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://github.com/satyamsharma17) |
 
 ---
 
