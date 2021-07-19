@@ -86,8 +86,3 @@
 | Satyam's GitHub stats | GitHub Streak |
 | --- | --- |
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/satyamsharma17) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://github.com/satyamsharma17) |
-
----
-
-## 🏷️ Monthly Contribution Graph
-[![Satyam Sharma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=satyamsharma17&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true)](https://github.com/satyamsharma17)
