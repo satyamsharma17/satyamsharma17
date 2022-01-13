@@ -38,7 +38,8 @@
 ## 🎯 Working On 
 | Codegram | Code-Note |
 | --- | --- |
-[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamsharma17/Code-Note) | 
+[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=News-Fresh)](https://github.com/satyamsharma17/News-Fresh) | 
+
 ---
   
 ## &#x1f4c8; My GitHub Stats
