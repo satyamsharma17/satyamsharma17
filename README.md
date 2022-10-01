@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- I'm a 1st-year B. Tech. (IT) student at University Institute of Technology RGPV.
+- I'm a 2nd-year B. Tech. (IT) student at University Institute of Technology RGPV.
 - Passionate about Android Development, Web Development, Machine Learning, DevOps.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
