@@ -47,7 +47,9 @@
 | --- | --- |
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamsharma17&show_icons=true)](https://github.com/satyamsharma17) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyamsharma17)](https://github.com/satyamsharma17) |
 
+---
+
 ## 🐦 Let's Talk
 | Satyam's Latest Tweet | Dev Quote |
 | --- | --- |
-[![](https://gtce.itsvg.in/api?username=IamSatyam17&theme=default&response=true&border=false&time=true&icon=code)](https://github.com/VishwaGauravIn/github-twitter-card-embed) | ![](https://quotes-github-readme.vercel.app/api?type=vertical)
+[![](https://gtce.itsvg.in/api?username=IamSatyam17&theme=default&response=true&border=false&time=true&icon=code)](https://github.com/VishwaGauravIn/github-twitter-card-embed) | ![](https://quotes-github-readme.vercel.app/api?type=vertical) |
