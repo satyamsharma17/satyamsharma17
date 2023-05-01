@@ -1,5 +1,7 @@
 ### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Satyam Sharma is here!
 
+![header](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
+
 ---
 
 ### 🚀 About Me
@@ -11,7 +13,7 @@
 ---
 
 ## 🧩 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord&labelColor=blue)](https://discord.gg/uS4jCf88) [![Codememe](https://img.shields.io/badge/Appstore--green?style=social&logo=amazon&labelColor=blue)](https://www.amazon.com/gp/product/B098KHTPR7) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter Followers](https://img.shields.io/twitter/follow/IamSatyam17?label=Twitter%20Followers&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/sharmasatyam?label=Reddit%20Karma&style=social)](https://www.reddit.com/u/sharmasatyam) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
+[![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord&labelColor=blue)](https://discord.gg/uS4jCf88) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCLFayhmJsJfzLzy5jHkC2aA?label=YouTube&style=social)](https://www.youtube.com/channel/UCLFayhmJsJfzLzy5jHkC2aA?sub_confirmation=1) [![Twitter](https://img.shields.io/twitter/follow/IamSatyam17?label=Twitter&style=social)](https://twitter.com/intent/follow?screen_name=IamSatyam17) [![Reddit](https://img.shields.io/reddit/user-karma/combined/sharmasatyam?label=Reddit&style=social)](https://www.reddit.com/u/sharmasatyam) [![Twitch Channel](https://img.shields.io/twitch/status/sharmasatyam17?style=social)](https://www.twitch.tv/sharmasatyam17)
 
 ---
 
@@ -34,13 +36,6 @@
 ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 ---
-
-## 🎯 Working On 
-| Codegram | Code-Note |
-| --- | --- |
-[![Codegram](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Codegram)](https://github.com/satyamsharma17/Codegram) | [![Code Note](https://github-readme-stats.vercel.app/api/pin/?username=satyamsharma17&repo=Code-Note)](https://github.com/satyamsharma17/Code-Note) | 
-
----
   
 ## &#x1f4c8; My GitHub Stats
 | Satyam's GitHub Stats | GitHub Streak |
@@ -53,3 +48,7 @@
 | Satyam's Latest Tweet | Dev Quote |
 | --- | --- |
 [![](https://gtce.itsvg.in/api?username=IamSatyam17&theme=default&response=true&border=false&time=true&icon=code)](https://github.com/VishwaGauravIn/github-twitter-card-embed) | ![](https://quotes-github-readme.vercel.app/api?type=vertical) |
+
+---
+
+[![@satyamsharma17's Holopin Badges](https://holopin.me/satyamsharma17)](https://holopin.io/@satyamsharma17)
